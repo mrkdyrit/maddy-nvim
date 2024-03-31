@@ -8,3 +8,4 @@ vim.api.nvim_create_autocmd("FileType", {
 
 vim.o.termguicolors = true
 vim.cmd'colorscheme catppuccin-mocha'
+
